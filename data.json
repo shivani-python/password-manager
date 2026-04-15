@@ -1,0 +1,14 @@
+{
+    "Amazon": {
+        "email": "example@gmail.com",
+        "password": "example123"
+    },
+    "Insta": {
+        "email": "example@gmail.com",
+        "password": "example123"
+    },
+    "Mynthra": {
+        "email": "example@gmail.com",
+        "password": "example123"
+    }
+}
